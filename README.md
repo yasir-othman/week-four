@@ -13,7 +13,7 @@ hexdump ./40Mb.txt |less
 echo " good afternoon people " > ./40Mb.txt\
 chmod 0661 40MB.txt
 
-find ./40MB.txt\
+find ./40MB.txt
 
 cd ..
 
